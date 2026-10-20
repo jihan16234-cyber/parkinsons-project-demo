@@ -9,11 +9,11 @@ A machine learning project that looks at a hand-drawn **spiral** or **wave** ima
 | # | Name | Student ID |
 |---|------|------------|
 | 1 | Nazmul Hasan Jihan | _add ID_ |
-| 2 | _teammate name_ | _add ID_ |
-| 3 | _teammate name_ | _add ID_ |
+| 2 | Md Sayeem | 2131870042 |
+| 3 | Nafiur Rahman | 2232617642 |
 | 4 | _teammate name_ | _add ID_ |
 
-Course: _add course code_ | Instructor: _add professor name_
+Course: Cse 445| Instructor: Dr. Mohammad Shifat-E-Rabbi 
 
 ---
 
@@ -34,7 +34,7 @@ Model training (`train.py`) and the web app (`app.py`) come in the next updates.
 | Member | File(s) added in Update 1 | What it is |
 |--------|---------------------------|------------|
 | Nazmul Hasan Jihan | `README.md`, `.gitignore`, `requirements.txt` | Project overview, repo setup, package list |
-| _Member 2 name_ | `common.py` | Image preprocessing and feature extraction code |
+| _Member 2 name | `common.py` | Image preprocessing and feature extraction code |
 | _Member 3 name_ | `data_description.md` | Description of the spiral / wave dataset |
 | _Member 4 name_ | `project_plan.md` | Plan for Updates 1, 2, 3 and the final report |
 
