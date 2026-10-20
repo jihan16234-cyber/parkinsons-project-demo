@@ -8,7 +8,7 @@ A machine learning project that looks at a hand-drawn **spiral** or **wave** ima
 
 | # | Name | Student ID |
 |---|------|------------|
-| 1 | Nazmul Hasan Jihan | _add ID_ |
+| 1 | Nazmul Hasan Jihan | 2212422642 |
 | 2 | Md Sayeem | 2131870042 |
 | 3 | Nafiur Rahman | 2232617642 |
 | 4 | _teammate name_ | _add ID_ |
