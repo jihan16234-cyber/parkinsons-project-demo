@@ -1,6 +1,6 @@
 # Project Plan
 
-**Added by:** _Member 4 name_
+**Added by:** Khondker Azam E Sadat Md Sayeem
 
 **Project:** Parkinson's Detection from Hand-drawn Spiral & Wave
 
